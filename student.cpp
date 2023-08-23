@@ -33,7 +33,6 @@ cin>>admission_year[i];
 else
 {
 for(int i=total;i<ch+total;i++)
-//to store onward students data rather than storing double data()
 {
 cout<<"\nEnter the Data of student "<<i+1<<endl<<endl;
 cout<<"Enter Roll NO ";
@@ -49,7 +48,7 @@ cin>>mobile_no[i];
 cout<<"Enter Admission Year: ";
 cin>>admission_year[i];
 }
-total=ch+total; //making choice
+total=ch+total;
 }
 }
 void show()
