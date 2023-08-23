@@ -1,5 +1,5 @@
 # Student-Class
- simple Student Record Management System that allows users to enter, display, search, update, and delete student data. The program uses arrays to store student information such as roll number, name, class, course, mobile number, and admission year. Users can interact with the system through a menu-based interface.
+ A Student Record Management System that allows users to enter, display, search, update, and delete student data. The program uses arrays to store student information such as roll number, name, class, course, mobile number, and admission year. Users can interact with the system through a menu-based interface.
 
  Key C++ concepts highlighted in this program: 
 Arrays: The program uses arrays to store data for multiple students. Each array element corresponds to a specific student's information, making it convenient to manage data for multiple records.
